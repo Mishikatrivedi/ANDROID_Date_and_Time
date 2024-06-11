@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Q3TextView</string>
+    <string name="second_activity_using_intent">Second Activity using Intent</string>
+    <string name="click_here">click here</string>
+    <string name="today_s_date">Today\'s DATE</string>
+    <string name="textview">TextView</string>
+    <string name="current_date_and_time">Current Date and Time</string>
+</resources>
